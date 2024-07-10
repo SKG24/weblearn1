@@ -1,5 +1,6 @@
 # HASTHQALA
 Art studio website for my personal brand
+### check out my instagram art account @hasthqala
 
 Main area to improve
 
